@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin: 200px;
 }
 .half-width{
   width: 50%;  
@@ -30,4 +31,10 @@ section{
 .Top-Banner{
    background-image: url(images/top-banner.png); 
    background-repeat: no-repeat;
+}
+.hello-world{
+background-image: url(images/FB_IMG_1628157507649-removebg-preview.png);
+background-repeat: no-repeat;
+background-position: right;
+padding: 20px;
 }
